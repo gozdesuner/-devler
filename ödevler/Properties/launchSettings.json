@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ödevler (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ödevler (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
